@@ -3,4 +3,5 @@ pandas
 python-dotenv
 certifi
 pymongo
+scikit-learn
 # -e .
